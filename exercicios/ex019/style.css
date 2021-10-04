@@ -15,3 +15,16 @@ h1#principal {
 h2 {
     color: rgb(65, 131, 109);
 }
+.basico {
+    color: rgb(65, 131, 109);
+}
+.intermediario {
+    color: rgb(131, 127, 65);
+}
+.avancado {
+    color: rgb(131, 65, 65);
+}
+.destaque {
+    font-weight: bold;
+    color: rgb(131, 65, 65);
+}
